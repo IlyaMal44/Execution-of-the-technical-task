@@ -1,0 +1,4 @@
+pages\PersonalAccountPage.class
+pages\WelcomePage.class
+constant\Сonstant.class
+pages\BasicPageSettings.class
